@@ -1,5 +1,10 @@
 let arr = [
     {
+        "name": "Володимир",
+        "age": 18,
+        "title": "ІПЗ-24-1"
+    },
+    {
         "name": "Petro",
         "age": 19,
         "title": "description"
